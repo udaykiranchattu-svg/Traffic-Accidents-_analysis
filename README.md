@@ -4,7 +4,7 @@
 This project is an Exploratory Data Analysis (EDA) of UK traffic accidents, designed to identify high-risk times, environmental contributing factors, and geospatial accident hotspots. The goal of this analysis is to provide actionable insights for public safety interventions.
 
 ## 📊 View the Project
-* **[Click Here to view the Interactive Accident Hotspot Map]([https://udaykiranchattu-svg.github.io/Traffic-Accidents-_analysis/])**
+* **[Click Here to view the Interactive Accident Hotspot Map](https://udaykiranchattu-svg.github.io/Traffic-Accidents-_analysis/)**
 * To see the Python code, visualisations, and the final Insights Report, click on the `Traffic_Safety_Analytics.ipynb` file above.
 
 ## Key Insights Discovered
